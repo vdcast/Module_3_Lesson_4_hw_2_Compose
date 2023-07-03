@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Module_3_Lesson_4_hw_2_Compose</string>
+    <string name="text_intro">Current Bitcoin exchange rates for USD, EUR and GBP.</string>
+    <string name="button_refresh">REFRESH DATA</string>
+    <string name="btc_to_usd">BTC / USD</string>
+    <string name="btc_to_eur">BTC / EUR</string>
+    <string name="btc_to_gbp">BTC / GBP</string>
+    <string name="text_bottom">To refresh exchange rates - click button below.</string>
 </resources>
