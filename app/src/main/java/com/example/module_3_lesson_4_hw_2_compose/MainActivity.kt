@@ -39,7 +39,7 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        var retrofit = RetrofitClient.getClient("https://api.coindesk.com/")
+        val retrofit = RetrofitClient.getClient("https://api.coindesk.com/")
             .create(API::class.java)
 
         setContent {
