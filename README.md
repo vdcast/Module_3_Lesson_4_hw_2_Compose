@@ -5,7 +5,7 @@ Internet. REST, Retrofit.
 
 **Task:**
 
-Write a program to display the current value of Bitcoin. All data is beautifully displayed on the screen. Add a "Refresh data" button.
+Create application to display the current value of Bitcoin. All data is beautifully displayed on the screen. Add a "Refresh data" button.
 
 **Result: Screen recoding** (please, note that it was converted to GIF, so it's not smooth as it was):
 
